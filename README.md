@@ -47,7 +47,3 @@ This notebook demonstrates object detection using the Faster R-CNN model, specif
 2. **Object Detection with Faster R-CNN:**  
    - Implements Faster R-CNN, known for its two-stage detection process, which first proposes regions and then classifies them, resulting in more accurate detections.
    - Focuses on training and fine-tuning the model on the ZOD dataset, aiming for high accuracy in detecting objects within various scenarios presented in the dataset.
-
-3. **Evaluation and Results:**  
-   - Evaluates model performance using relevant metrics and visualizes detection results on the ZOD dataset.
-   - Compares performance with other models and discusses the strengths of the Faster R-CNN approach in the context of the ZOD dataset.
