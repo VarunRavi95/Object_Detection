@@ -7,13 +7,13 @@ This project demonstrates object detection, segmentation, and tracking on the Ze
 ### Object Detection
 
 <p align="center">
-  <img src="./zod_gif.gif" alt="Object Detection GIF">
+  <img src="./zod_gif.gif" alt="Object Detection GIF" width="600">
 </p>
 
 ### Object Segmentation
 
 <p align="center">
-  <img src="./zod_seg.gif" alt="Object Segmentation GIF">
+  <img src="./zod_seg.gif" alt="Object Segmentation GIF" width="600">
 </p>
 
 ## Notebooks Overview
